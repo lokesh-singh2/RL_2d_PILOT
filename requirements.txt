@@ -1,0 +1,7 @@
+# The code uses the OLD gym API (reset() -> state, step() -> 4 values).
+# Replace with the exact versions from your `pip freeze`.
+torch>=2.0
+gym<0.26
+numpy
+matplotlib
+# plus the drone environment (see README, "Environment")
