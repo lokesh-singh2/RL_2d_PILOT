@@ -318,7 +318,7 @@ RL_2d_PILOT/
 ## Created by
 
 - Lokesh Singh
-- Ayush Shinde
+- Ayush S. Shinde
 
 ## License
 
